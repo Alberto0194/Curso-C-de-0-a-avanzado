@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    int a=0
+    printf("El valor a agendar es: %d/n, a");
+
+
+    return 0;
+}

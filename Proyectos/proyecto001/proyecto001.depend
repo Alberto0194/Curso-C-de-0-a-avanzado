@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698718093 source:a:\downloads\cursos\c\proyectos\proyecto001\main.c
+	<stdio.h>
+	"productos.h"
+
+1698718093 a:\downloads\cursos\c\proyectos\proyecto001\productos.h
+
+1698718060 source:a:\downloads\cursos\c\proyectos\proyecto001\productos.c
+	<stdio.h>
+	"productos.h"
+
